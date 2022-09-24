@@ -3,7 +3,7 @@ import React from "react";
 function Navbar() {
   return (
     <nav>
-        <a href="home">I'm a link!</a>
+        <a href="navbar">I'm a link!</a>
     </nav>
   );
 };
